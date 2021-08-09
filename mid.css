@@ -1,7 +1,41 @@
-.c {
-    padding: 100px;
+.awq {
+    display: inline-block;
+    animation: bounceIn;
+    animation-duration: 2s;
 }
 
-.img {
-    padding: 40px;
+.brt{
+    display: inline-block;
+    animation: headShake;
+    animation-duration: 2s;
+}
+
+.re {
+    display: inline-block;
+    animation: flash;
+    animation-duration: 2s;
+}
+
+.ws{
+    display: inline-block;
+    animation: heartBeat;
+    animation-duration: 2s;
+}
+
+.dee{
+    display: inline-block;
+    animation: slideInRight;
+    animation-duration: 2s;
+}
+
+.swe
+    display: inline-block;
+    animation: slideInLeft;
+    animation-duration: 2s;
+}
+
+.v{
+    display: inline-block;
+    animation: shakeY;
+    animation-duration: 2s;
 }
